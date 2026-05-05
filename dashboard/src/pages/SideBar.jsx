@@ -12,6 +12,8 @@ function SideBar() {
 <br></br>
        
           <a href="/AddStudents">Add Student</a>
+<br></br>
+          <a href="/Users">Users</a>
        
      
     </aside>
